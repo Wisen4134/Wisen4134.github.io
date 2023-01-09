@@ -9,27 +9,29 @@
     </head>
 
   <body>
-    <p><h1>這是宇呈你知道的</h1></p>
-  <img src="images/test.png" alt="RRRRRRR ">
+    <p><h1>Welcome to Wisen`s Page!</h1></p>
+  <img src="images/test.png" alt="There is a Test Image... ">
     <p class="editor-note">Hi,I`m Wisen</p>
     
+      <h4>學歷</h4>
       <ul>
-        <li>不高</li>
-        <li>很窮</li>
-        <li>普通帥</li>
+        <li>國立雲林科技大學＿電子工程系</li>
+        <li>國立彰師附工＿電子系</li>
       </ul>
 
+      <h4>Program Language & Framework</h4>
       <ol>
-        <li>宇呈是對的</li>
-        <li>不要懷疑第一點</li>
-        <li>請遵守第二點</li>
+        <li>.Net framework 、.Net6</li>
+        <li>Html、Css、JavaScript、Vue</li>
+        <li>C#</li>
+        <li>SQL</li>
       </ol>
       <a href="https://imgur.com/gallery/48FFvh7" >
         別點,有毒
       </a>
 
     
-      <script src="scripts/main.js"></script>
+      /*<script src="scripts/main.js"></script>*/
     </body>
 
   </html>
