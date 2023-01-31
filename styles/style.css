@@ -42,7 +42,7 @@
     margin: 0;
     padding: 20px 0;
     color: #00539F;
-    text-shadow: 3px 3px 1px black;
+    
     font-size: 50px;
     text-align: center;
   }
@@ -51,7 +51,7 @@
     margin: 0;
     padding: 20px 0;
     color: #5A5AAD;
-    text-shadow: 2px 2px 1px black;
+    
   }
   img {
     display: block;
